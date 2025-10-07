@@ -27,6 +27,7 @@ This is an upgraded version of my earlier HTML, CSS, and JavaScript project — 
 ---
 
 ## ⚙️ Tech Stack
+
 | Category | Tools Used |
 |-----------|-------------|
 | Frontend | React JS, HTML5, CSS3, JavaScript |
